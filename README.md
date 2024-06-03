@@ -50,6 +50,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=est_countries_api_with_color_theme_switcher)](https://github.com/FlavioRoman/est_countries_api_with_color_theme_switcher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=nft_card)](https://github.com/FlavioRoman/nft_card)
 
-## Open For Oppurtunities :purple_heart: !
-
-
