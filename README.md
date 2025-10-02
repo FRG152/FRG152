@@ -2,7 +2,7 @@
 
 **Senior Frontend Developer** | React · Next.js · TypeScript · React Native
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/flavio-roman-1946201b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/flavio-roman-46044b368/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:flavioromangoncalez01@gmail.com)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-Profile-5F3DC4?style=flat&logo=frontendmentor)](https://www.frontendmentor.io/profile/FRG152)
 
@@ -175,7 +175,7 @@ I'm open to **remote positions** and **freelance projects** where I can contribu
 
 **Let's connect:**
 - 📧 **Email:** [flavioromangoncalez01@gmail.com](mailto:flavioromangoncalez01@gmail.com)
-- 💼 **LinkedIn:** [Flavio Roman](https://www.linkedin.com/in/flavio-roman-1946201b5/)
+- 💼 **LinkedIn:** [Flavio Roman](https://www.linkedin.com/in/flavio-roman-46044b368/)
 - 📱 **WhatsApp:** +595 984 415243
 - 🌐 **Frontend Mentor:** [@FRG152](https://www.frontendmentor.io/profile/FRG152)
 
