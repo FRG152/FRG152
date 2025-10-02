@@ -1,52 +1,133 @@
-<h1 align="center">¡Hello!, My Name is Flavio Roman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# Flavio Roman
 
-<p>
-  I am a student of computer engineering, I really like web development, so I always try in a friendly, stable and maintainable way to develop web pages, to provide the user a good experience   and use, 
-  I am constantly learning in web development, so I always learn something new, as developers and programmers have to be in constant learning every day. Thanks for taking the time to read this, good luck 
-  :)
-</p>
+**Frontend Developer** | React · Next.js · TypeScript · Tailwind CSS
 
-- 🔭 Currently always improving my way of developing web pages.
-- 🌱 I am currently learning more advanced concepts about some things I already know, but I want to learn more about it.
-- 🏅 I am looking for an opportunity to grow in web development and programming.
-- 💬 Ask me about something you want to now about me.
-- 📫 How to reach me: mail at romanflavio3@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/flavio-roman-1946201b5/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:romanflavio3@hotmail.com)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-Profile-5F3DC4?style=flat&logo=frontendmentor)](https://www.frontendmentor.io/profile/FRG152)
 
-## Can Help You With 👩‍💻:
-- Develop web pages, friendly, stable and maintainable, for the user and developer..
-- Applying responsive design to web pages.
-- Implement frameworks, libraries and REST APIs in the pages, to execute operations or data manipulation.
+---
 
-## My Goals 🏆:
-- Grow as a developer and programmer, since it is something that I like to do and dedicate professionally.
-- Always learn best practices in software development, improve efficiency and effectiveness and improve development time.
-- Convertirse en fullstack developer no solo front-end.
-- Learn better ways, concepts and techniques about design, as it is also something I like to do apart from development. 
+## 👨‍💻 About Me
 
-## Skills and Tools 🛠️:
- <img src="https://skillicons.dev/icons?i=git,bootstrap,css,sass,discord,figma,github,html,java,php,js,linux,materialui,mysql,nextjs,nodejs,react,vite,tailwind,netlify,replit,vscode&perline=14" />
- 
-## Contact my 🤝🏻:
-<a href="https://www.linkedin.com/in/flavio-roman-1946201b5/" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="mailto:romanflavio2@gmail.com" target="_blank">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
-<a href="mailto:romanflavio2@gmail.com">
-  <img src="https://camo.githubusercontent.com/fe4f685f3dfccebdc79852e415218057fa8000d2baa8dcb3ae757822e64272ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46726f6e74656e642532304d656e746f722d3546334443343f7374796c653d666f722d7468652d6261646765266c6f676f3d46726f6e74656e644d656e746f72266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e66726f6e74656e646d656e746f722e696f2f70726f66696c652f4d656c76696e416775696c6172" alt="Frontend Mentor" data-canonical-src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&amp;logo=FrontendMentor&amp;logoColor=white&amp;link=https://www.frontendmentor.io/profile/FRG152">
-</a>
+Computer Engineering student passionate about building modern, responsive, and maintainable web applications. I specialize in creating user-friendly interfaces with clean code and best practices.
 
-## Github STATS :cyclone: !
+Currently based in **Paraguay** 🇵🇾 and actively seeking opportunities to grow as a Full-Stack Developer.
 
-![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=FlavioRoman&show_icons=true&theme=dracula)
-<br>
+```typescript
+const flavio = {
+  location: "Paraguay",
+  role: "Frontend Developer",
+  focus: ["Web Development", "UI/UX Implementation", "API Integration"],
+  learning: ["Advanced React Patterns", "Full-Stack Development", "Design Systems"],
+  goal: "Become a Full-Stack Developer and master software architecture"
+};
+```
 
-## Some Projects to Visit 🚩: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=pricing_toggle)](https://github.com/FlavioRoman/pricing_toggle)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=static_job_listings)](https://github.com/FlavioRoman/static_job_listings)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=qr-code-js)](https://github.com/FlavioRoman/qr-code-js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=fylo_dark_theme)](https://github.com/FlavioRoman/fylo_dark_theme)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=est_countries_api_with_color_theme_switcher)](https://github.com/FlavioRoman/est_countries_api_with_color_theme_switcher)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=nft_card)](https://github.com/FlavioRoman/nft_card)
+---
 
+## 🚀 What I Offer
+
+✨ **Modern Web Development**
+- Responsive, mobile-first design implementation
+- Component-based architecture with React/Next.js
+- Integration of REST APIs and third-party services
+
+🎯 **Quality & Maintainability**
+- Clean, readable, and well-documented code
+- Best practices in software development
+- Focus on performance and user experience
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+```
+React · Next.js · JavaScript · TypeScript
+HTML5 · CSS3 · Sass · Tailwind CSS · Material UI · Bootstrap
+```
+
+**Backend & Tools**
+```
+Node.js · PHP · MySQL
+Git · GitHub · Linux · Vite · Netlify · Replit
+```
+
+**Design & Collaboration**
+```
+Figma · Responsive Design · GSAP Animations
+```
+
+---
+
+## 📜 Certifications
+
+### Meta
+- **Control de versión** - Version Control (Sept 2025)
+  - Git · GitHub · Unix · Git BASH · Git Flow
+- **Introduction to Front-End Development** (Sept 2025)
+  - HTML5 · Cascading Style Sheets (CSS)
+
+### JSM Masterclass Experience
+- **HTML Masterclass** (Sept 2025)
+  - HTML5 · Cascading Style Sheets (CSS)
+- **Next.js 15 Crash Course | Build** (Sept 2025)
+  - Next.js · SSR · Sanity · ISR · Auth.js · Sentry
+- **Web Animations Full Course | Build a GTA VI Website** (Sept 2025)
+  - React.js · Vite.js · GreenSock Animation Platform (GSAP)
+
+### In Progress
+- React Basic
+- React Advanced
+- Basic Prompt Engineering
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioRoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![Pricing Toggle](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=pricing_toggle&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FlavioRoman/pricing_toggle)
+[![Static Job Listings](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=static_job_listings&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FlavioRoman/static_job_listings)
+
+[![Countries API](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=est_countries_api_with_color_theme_switcher&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FlavioRoman/est_countries_api_with_color_theme_switcher)
+[![Fylo Dark Theme](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=fylo_dark_theme&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FlavioRoman/fylo_dark_theme)
+
+[![QR Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=qr-code-js&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FlavioRoman/qr-code-js)
+[![NFT Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=nft_card&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FlavioRoman/nft_card)
+
+</div>
+
+---
+
+## 💼 Open to Opportunities
+
+I'm currently looking for opportunities to contribute to innovative projects and grow as a developer. If you're interested in collaborating or have a position available, let's connect!
+
+**Contact:**
+- 📧 Email: [romanflavio3@hotmail.com](mailto:romanflavio3@hotmail.com)
+- 💼 LinkedIn: [Flavio Roman](https://www.linkedin.com/in/flavio-roman-1946201b5/)
+- 🌐 Frontend Mentor: [@FRG152](https://www.frontendmentor.io/profile/FRG152)
+
+---
+
+<div align="center">
+  
+### "Always learning, always growing" 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=FlavioRoman&color=70a5fd&style=flat)
+
+</div>
