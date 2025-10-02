@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/flavio-roman-46044b368/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:flavioromangoncalez01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/FRG152)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-Profile-5F3DC4?style=flat&logo=frontendmentor)](https://www.frontendmentor.io/profile/FRG152)
 
 ---
@@ -124,11 +125,11 @@ OpenAI Integration · Real-time Applications · AI-powered Features
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FRG152&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioRoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FRG152&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlavioRoman&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FRG152&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
 
 </div>
 
@@ -138,14 +139,14 @@ OpenAI Integration · Real-time Applications · AI-powered Features
 
 <div align="center">
 
-[![Pricing Toggle](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=pricing_toggle&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FlavioRoman/pricing_toggle)
-[![Static Job Listings](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=static_job_listings&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FlavioRoman/static_job_listings)
+[![Pricing Toggle](https://github-readme-stats.vercel.app/api/pin/?username=FRG152&repo=pricing_toggle&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FRG152/pricing_toggle)
+[![Static Job Listings](https://github-readme-stats.vercel.app/api/pin/?username=FRG152&repo=static_job_listings&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FRG152/static_job_listings)
 
-[![Countries API](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=est_countries_api_with_color_theme_switcher&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FlavioRoman/est_countries_api_with_color_theme_switcher)
-[![Fylo Dark Theme](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=fylo_dark_theme&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FlavioRoman/fylo_dark_theme)
+[![Countries API](https://github-readme-stats.vercel.app/api/pin/?username=FRG152&repo=est_countries_api_with_color_theme_switcher&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FRG152/est_countries_api_with_color_theme_switcher)
+[![Fylo Dark Theme](https://github-readme-stats.vercel.app/api/pin/?username=FRG152&repo=fylo_dark_theme&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FRG152/fylo_dark_theme)
 
-[![QR Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=qr-code-js&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FlavioRoman/qr-code-js)
-[![NFT Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=nft_card&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FlavioRoman/nft_card)
+[![QR Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=FRG152&repo=qr-code-js&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FRG152/qr-code-js)
+[![NFT Card](https://github-readme-stats.vercel.app/api/pin/?username=FRG152&repo=nft_card&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)](https://github.com/FRG152/nft_card)
 
 </div>
 
@@ -177,6 +178,7 @@ I'm open to **remote positions** and **freelance projects** where I can contribu
 - 📧 **Email:** [flavioromangoncalez01@gmail.com](mailto:flavioromangoncalez01@gmail.com)
 - 💼 **LinkedIn:** [Flavio Roman](https://www.linkedin.com/in/flavio-roman-46044b368/)
 - 📱 **WhatsApp:** +595 984 415243
+- 🐙 **GitHub:** [@FRG152](https://github.com/FRG152)
 - 🌐 **Frontend Mentor:** [@FRG152](https://www.frontendmentor.io/profile/FRG152)
 
 ---
@@ -185,6 +187,6 @@ I'm open to **remote positions** and **freelance projects** where I can contribu
   
 ### "Building tomorrow's web experiences, today" 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=FlavioRoman&color=70a5fd&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=FRG152&color=70a5fd&style=flat)
 
 </div>
