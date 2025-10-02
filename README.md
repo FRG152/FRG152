@@ -113,11 +113,12 @@ OpenAI Integration · Real-time Applications · AI-powered Features
   - Next.js · SSR · Sanity CMS · ISR · Auth.js · Sentry
 - **Web Animations Full Course - GTA VI Website** (Sept 2025)
   - React.js · Vite.js · GSAP Animations
-
+```
 ### In Progress
 - 🎯 React Basic Certification
 - 🎯 React Advanced Certification
 - 🎯 Prompt Engineering Fundamentals
+```
 
 ---
 
